@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1695927215 source:d:\sudoku\loading_bage\loading.c
+	"loading.h"
+	<stdio.h>
+	<stdlib.h>
+	"../Include/tc.h"
+	<windows.h>
+	<conio.h>
+
+1695927215 d:\sudoku\loading_bage\loading.h
+
+1695909911 d:\sudoku\include\tc.h
+	<stdio.h>
+
+1696256908 source:d:\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"main.h"
+
+1696257074 d:\sudoku\main.h
+	"loading_bage/loading.h"
+	"Frame/frame.h"
+	"Include/tc.h"
+	"Impelementaion/imp.h"
+	"Sound/sound.h"
+
+1696256681 d:\sudoku\frame\frame.h
+
+1696257030 source:d:\sudoku\frame\frame.c
+	"frame.h"
+	<stdio.h>
+	<stdlib.h>
+	"../Include/tc.h"
+	<windows.h>
+	<conio.h>
+
+1696254199 source:d:\sudoku\impelementaion\imp.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"imp.h"
+	"../loading_bage/loading.h"
+	"../Frame/frame.h"
+	"../Include/tc.h"
+	"../Sound/sound.h"
+
+1696253649 d:\sudoku\impelementaion\imp.h
+
+1696182861 source:d:\sudoku\sound\sound.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1696182861 d:\sudoku\sound\sound.h
+
